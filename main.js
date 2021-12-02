@@ -1,3 +1,3 @@
 var  num = 50;
-var truth = "Hello word";
+var truth = "Hello Flatter Earth";
 
